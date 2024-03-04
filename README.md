@@ -1,2 +1,3 @@
 # quizz
-This is My first Git Repository
+This is my first Git Repository.
+
